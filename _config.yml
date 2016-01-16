@@ -1,0 +1,28 @@
+name: Small Business
+favicon: null
+layout_spectrum: 0.75141611113213
+typography_spectrum: 0.6552520655095577
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.46338482899591327
+  lightness: 0.5054621761664748
+  saturation: 0.16932270140387118
+  rhythmicContrast: 0.9704060046933591
+purpose: []
