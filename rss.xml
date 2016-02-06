@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Small Business]]></title>
+        <description><![CDATA[Small Business]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 06 Feb 2016 11:30:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://stories.producthunt.com/wp-content/uploads/2015/12/rand_fishkin_5.jpg">]]></description>
+            <link>undefineddaf83f0f-128c-43c0-8fda-5beba3dfbf87/index.html</link>
+            <guid isPermaLink="false">daf83f0f-128c-43c0-8fda-5beba3dfbf87</guid>
+            <pubDate>Sat, 06 Feb 2016 11:30:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
